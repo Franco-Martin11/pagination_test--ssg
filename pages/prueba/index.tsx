@@ -10,7 +10,7 @@ const Index: NextPage<Props> = ({}) => {
       <CardComponent
         bgColor={"bg-lightBeige"}
         route={"/"}
-        srcImage={"/img-top-der.jpg"}
+        srcImage={"/img-bottom.png"}
         altImage={"img-izq"}
         titleText={"Birmingham Museums."}
         headTitle={"Congreve Street"}
